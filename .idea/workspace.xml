@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Stuff your face I/stuff.htm.html" afterPath="$PROJECT_DIR$/Stuff your face I/stuff.htm.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Stuff your face I/js/stuff.js" afterPath="$PROJECT_DIR$/Stuff your face I/js/stuff.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Conditionals_worksheet.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371690459989" ignored="false" />
     <file path="/stuff.htm.html" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371689869423" ignored="false" />
-    <file path="/stuff.js" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371690782414" ignored="false" />
+    <file path="/stuff.js" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371690965762" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
       <file leaf-file-name="stuff.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Stuff your face I/js/stuff.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="5" selection-start="320" selection-end="320" vertical-scroll-proportion="0.24962178">
+            <state line="17" column="53" selection-start="451" selection-end="451" vertical-scroll-proportion="0.3857791">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -44,7 +42,7 @@
       <file leaf-file-name="stuff.htm.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Stuff your face I/stuff.htm.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="24" selection-start="140" selection-end="140" vertical-scroll-proportion="-5.625">
+            <state line="3" column="12" selection-start="42" selection-end="42" vertical-scroll-proportion="-1.875">
               <folding />
             </state>
           </provider>
@@ -190,7 +188,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30604026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -284,14 +282,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Stuff your face I/stuff.htm.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="24" selection-start="140" selection-end="140" vertical-scroll-proportion="-5.625">
+        <state line="3" column="12" selection-start="42" selection-end="42" vertical-scroll-proportion="-1.875">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Stuff your face I/js/stuff.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="5" selection-start="320" selection-end="320" vertical-scroll-proportion="0.24962178">
+        <state line="17" column="53" selection-start="451" selection-end="451" vertical-scroll-proportion="0.3857791">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
