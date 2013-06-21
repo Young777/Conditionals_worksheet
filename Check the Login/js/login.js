@@ -10,7 +10,8 @@ var Cpassword = password3
 if(username && password === Cusername && Cpassword){
     //if they match user will get welcome message
     console.log("Welcome, (Young777)!")
-}else if(Cpassword == password){
-    console.log()
-
+}else if(username == Cusername){
+    console.log("User not found. Try again")
+}else{
+    //
 }
