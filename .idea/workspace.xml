@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tire Pressure I/tire.html" afterPath="$PROJECT_DIR$/Tire Pressure I/tire.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tire Pressure I/js/tire.js" afterPath="$PROJECT_DIR$/Tire Pressure I/js/tire.js" />
     </list>
     <ignored path="Conditionals_worksheet.iws" />
@@ -16,7 +15,7 @@
     <file path="/Gas.js" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371783551196" ignored="false" />
     <file path="/login.html" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371784019946" ignored="false" />
     <file path="/login.js" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371784751081" ignored="false" />
-    <file path="/tire.js" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371785181145" ignored="false" />
+    <file path="/tire.js" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371785230593" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
       <file leaf-file-name="tire.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tire Pressure I/js/tire.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="17" selection-start="175" selection-end="175" vertical-scroll-proportion="0.33834586">
+            <state line="10" column="44" selection-start="305" selection-end="305" vertical-scroll-proportion="0.37593985">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -400,7 +399,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tire Pressure I/js/tire.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="17" selection-start="175" selection-end="175" vertical-scroll-proportion="0.33834586">
+        <state line="10" column="44" selection-start="305" selection-end="305" vertical-scroll-proportion="0.37593985">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
