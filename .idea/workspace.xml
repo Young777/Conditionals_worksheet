@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Movie Ticket Price/ticket.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Movie Ticket Price/js/ticket.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Movie Ticket Price/ticket.html" afterPath="$PROJECT_DIR$/Movie Ticket Price/ticket.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Movie Ticket Price/js/ticket.js" afterPath="$PROJECT_DIR$/Movie Ticket Price/js/ticket.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tire Pressure I/tire.html" afterPath="$PROJECT_DIR$/Tire Pressure I/tire.html" />
     </list>
     <ignored path="Conditionals_worksheet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,6 +18,8 @@
     <file path="/login.html" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371784019946" ignored="false" />
     <file path="/login.js" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371784751081" ignored="false" />
     <file path="/tire.js" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371785300905" ignored="false" />
+    <file path="/tire.html" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371785565039" ignored="false" />
+    <file path="/ticket.html" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371785590674" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,26 +39,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tire.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tire Pressure I/tire.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="26" selection-start="56" selection-end="56" vertical-scroll-proportion="-1.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tire.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tire Pressure I/js/tire.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="16" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ticket.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Movie Ticket Price/js/ticket.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,7 +51,7 @@
       <file leaf-file-name="ticket.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Movie Ticket Price/ticket.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="9" column="22" selection-start="142" selection-end="142" vertical-scroll-proportion="0.36">
               <folding />
             </state>
           </provider>
@@ -102,10 +85,10 @@
         <option value="$PROJECT_DIR$/Check the Login/login.html" />
         <option value="$PROJECT_DIR$/Check the Login/js/login.js" />
         <option value="$PROJECT_DIR$/Tire Pressure I/tire.js" />
-        <option value="$PROJECT_DIR$/Tire Pressure I/tire.html" />
         <option value="$PROJECT_DIR$/Tire Pressure I/js/tire.js" />
-        <option value="$PROJECT_DIR$/Movie Ticket Price/js/ticket.js" />
+        <option value="$PROJECT_DIR$/Tire Pressure I/tire.html" />
         <option value="$PROJECT_DIR$/Movie Ticket Price/ticket.html" />
+        <option value="$PROJECT_DIR$/Movie Ticket Price/js/ticket.js" />
       </list>
     </option>
   </component>
@@ -159,6 +142,20 @@
               <option name="myItemId" value="Conditionals_worksheet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tire Pressure I" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals_worksheet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals_worksheet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -189,6 +186,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals_worksheet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals_worksheet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Check the Login" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -392,14 +403,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Check the Login/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="8" selection-start="138" selection-end="138" vertical-scroll-proportion="0.36">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tire Pressure I/tire.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="26" selection-start="56" selection-end="56" vertical-scroll-proportion="-1.875">
+        <state line="4" column="4" selection-start="69" selection-end="106" vertical-scroll-proportion="-2.5">
           <folding />
         </state>
       </provider>
@@ -413,6 +417,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Tire Pressure I/tire.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="28" selection-start="129" selection-end="129" vertical-scroll-proportion="0.32">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Movie Ticket Price/js/ticket.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -422,7 +433,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Movie Ticket Price/ticket.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="9" column="22" selection-start="142" selection-end="142" vertical-scroll-proportion="0.36">
           <folding />
         </state>
       </provider>
