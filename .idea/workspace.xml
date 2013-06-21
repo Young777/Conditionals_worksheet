@@ -2,16 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Celsius to Fahrenheit converter/js/convert.js" afterPath="$PROJECT_DIR$/Celsius to Fahrenheit converter/js/convert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Last Chance for Gas/js/Gas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Last Chance for Gas/gas.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Check the Login/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Check the Login/js/login.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Conditionals_worksheet.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371700803808" ignored="false" />
+    <file path="/Dummy.txt" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371782160526" ignored="false" />
     <file path="/stuff.htm.html" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371689869423" ignored="false" />
     <file path="/stuff.js" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371690965762" ignored="false" />
     <file path="/convert.html" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371691594160" ignored="false" />
     <file path="/convert.js" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371701938597" ignored="false" />
+    <file path="/gas.html" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371782396785" ignored="false" />
+    <file path="/Gas.js" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371783551196" ignored="false" />
+    <file path="/login.html" changelist="d0a7b5ad-61e5-4b00-b0bf-b4268d6fe12b" time="1371784019946" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,19 +37,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="convert.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="convert.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Celsius to Fahrenheit converter/js/convert.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="23" selection-start="234" selection-end="234" vertical-scroll-proportion="0.22692889">
+            <state line="10" column="44" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="convert.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Celsius to Fahrenheit converter/convert.html">
+      <file leaf-file-name="Gas.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Last Chance for Gas/js/Gas.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="22" selection-start="156" selection-end="156" vertical-scroll-proportion="-5.625">
+            <state line="14" column="32" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Check the Login/js/login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Check the Login/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="8" selection-start="138" selection-end="138" vertical-scroll-proportion="0.36">
               <folding />
             </state>
           </provider>
@@ -71,14 +97,19 @@
         <option value="$PROJECT_DIR$/Stuff your face I/js/stuff.js" />
         <option value="$PROJECT_DIR$/Celsius to Fahrenheit converter/convert.html" />
         <option value="$PROJECT_DIR$/Celsius to Fahrenheit converter/js/convert.js" />
+        <option value="$PROJECT_DIR$/Last Chance for Gas/gas.html" />
+        <option value="$PROJECT_DIR$/Last Chance for Gas/js/Gas.js" />
+        <option value="$PROJECT_DIR$/Check the Login/js.js" />
+        <option value="$PROJECT_DIR$/Check the Login/js/login.js" />
+        <option value="$PROJECT_DIR$/Check the Login/login.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="737" />
-    <option name="y" value="37" />
-    <option name="width" value="768" />
-    <option name="height" value="807" />
+    <option name="x" value="666" />
+    <option name="y" value="96" />
+    <option name="width" value="759" />
+    <option name="height" value="545" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -135,7 +166,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Celsius to Fahrenheit converter" />
+              <option name="myItemId" value="Check the Login" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -149,7 +180,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Celsius to Fahrenheit converter" />
+              <option name="myItemId" value="Check the Login" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -195,13 +226,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="737" y="37" width="768" height="807" extended-state="0" />
+    <frame x="666" y="96" width="759" height="545" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32880434" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -277,6 +308,48 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Celsius to Fahrenheit converter/js/convert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Celsius to Fahrenheit converter/convert.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="22" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Celsius to Fahrenheit converter/js/convert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Celsius to Fahrenheit converter/convert.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="22" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Celsius to Fahrenheit converter/js/convert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Celsius to Fahrenheit converter/convert.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="22" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Stuff your face I/js/stuff.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -299,14 +372,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Celsius to Fahrenheit converter/convert.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="22" selection-start="156" selection-end="156" vertical-scroll-proportion="-5.625">
+        <state line="4" column="4" selection-start="85" selection-end="124" vertical-scroll-proportion="0.16">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Celsius to Fahrenheit converter/js/convert.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="23" selection-start="234" selection-end="234" vertical-scroll-proportion="0.22692889">
+        <state line="10" column="44" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Last Chance for Gas/js/Gas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="32" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Check the Login/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Last Chance for Gas/gas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="3" selection-start="72" selection-end="108" vertical-scroll-proportion="0.16">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Check the Login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="8" selection-start="138" selection-end="138" vertical-scroll-proportion="0.36">
           <folding />
         </state>
       </provider>
